@@ -14,3 +14,4 @@ All of the below *may* be already installed
 
 - urllib
 - zipfile
+- requests
